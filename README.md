@@ -4,7 +4,7 @@ This project demonstrates how to integrate Azure's DALL·E Image Generation API 
 
 
 ## Demo URL:
-https://bunk4code.github.io/VisionBox/
+https://github.com/Reethuyadav/VisionBox.git
 
 
 ## Table of Contents
@@ -61,6 +61,6 @@ Before running the application, ensure you have:
  ## Here is the
 
 ### 1. Clone the Repository
-https://github.com/bunk4code/VisionBox/
+https://github.com/Reethuyadav/VisionBox.git
 
 cd azure-dalle-html-integration# VisionBox
